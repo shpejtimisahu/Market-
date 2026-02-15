@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Kuzhina",
+    "price": 6700.0,
+    "description": "Kuzhina eshte me standarte europiane, e ardhur nga italia dhe eshte e punuar me dru arre.",
+    "image": "/static/uploads/deal-02.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ville",
+    "price": 260000.0,
+    "description": "Shitet villa ne ulqin, villa ka 350m2 dhe eshte buze detit.",
+    "image": "/static/uploads/banner-02.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kuzhine",
+    "price": 6800.0,
+    "description": "Kuzhine me standart europian, e punuar ne Itali",
+    "image": "/static/uploads/deal-02.jpg",
+    "category": "T\u00eb tjera"
+  },
+  {
+    "id": 4,
+    "name": "Laptop",
+    "price": 320.0,
+    "description": "laptomi eshte ne gjendje 10/10",
+    "image": "/static/uploads/property-03.jpg",
+    "category": "Teknologji"
+  },
+  {
+    "id": 11,
+    "name": "zre",
+    "price": 11.0,
+    "description": "wqe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png",
+    "category": "T\u00eb tjera"
+  },
+  {
+    "id": 6,
+    "name": "Laptop Dell",
+    "price": 580.0,
+    "description": "Laptopi eshte i ardhur nga zvicrra dhe eshte ne gjendje perfekte",
+    "image": "https://i.pcmag.com/imagery/reviews/01Nb7ULQkkPJWE4dqsewfHz-1.fit_lim.size_919x518.v1727453897.jpg",
+    "category": "Teknologji"
+  },
+  {
+    "id": 7,
+    "name": "AAB",
+    "price": 123.0,
+    "description": "",
+    "image": "data:image/jpeg;base64,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",
+    "category": "T\u00eb tjera"
+  },
+  {
+    "id": 8,
+    "name": "AAB",
+    "price": 123.0,
+    "description": "Laptop per programer",
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8NDQ8NDQ0NDQ0NDQ4NDQ0ODQ8NDw0NFREWFhURFRMYHSggGBolGxUVITEhJSkrLy4wFx8zODMsNygtLisBCgoKDQ0OFQ8PFSsZFRkrKystKysrKystLSsrLSstKzc3NysrLSsrLTcrLSsrLSsrKysrKysrKysrKysrKysrK//AABEIAMIBAwMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAABAgADBAUGB//EAD0QAAIBAgMDCQUFBwUAAAAAAAABAgMRBBIhBTFRBhMyQWFxgZGxIkJSkqEHYnLBwhQVIzOistFTY4LS8f/EABgBAQEBAQEAAAAAAAAAAAAAAAABAgME/8QAGxEBAQEBAQEBAQAAAAAAAAAAAAEREjECIUH/2gAMAwEAAhEDEQA/APc3BcFyXKDcALguQOS4lyXAe4Li3BcBrkuJcNwo3FzrdfUrrTyrNwcX4XV/pcqqxtOS4Sa+oo1XJcyIdN8WZ1cX3JcqzMKmxosuBsTOTOA9yCZg3CjcFwMABuS4rJcgdMLYqI2UNFm2LMMd67zZA1GaLeo0mJfVDMIuw79o302YML0joU0WJT5yF6iiGmXlmwXFuS5hs1yXEuS4DXBcW5LhTXJcW5LgG4bi3IQLiI5oTXGMl9GCu7yzfHGE/min+Y6KfcpdlKMH3wbj+Rf4T0UFICHRlpA2IQJoWBYYhUJYlhwMuGl14k1Cg2GGkZLj2A0OTpEwtlbiKycnS+D1RtgYKL1Xeb4bioHvIZiLpIZhWjCdLwOlA5uD6XgdOBqM1eiARDTLyNyXFbBc5OhmyXK5SAmRcWXCmV3DcB7huV3DcBrkuLchDDXE91fdqVV4OSkv7g3FjumuFSD8JQt+k1L6lFDiRHQWigkQQiWBYYhUCwGhiWKFSINYlioVoFhwWARoSSLbCtALR6RvW4w0l7SNy3GVhY9JDt6lcekh3vCtWC6R0oHNwW9nRpmozVxCENI8a2LcjYLnF0FsgrZLk1TBuJcNxphg3EuS5NU9yXFuS5NDXJT6VRcadOfyza/UhUw0v5i+9SrQ8cqmv7DXzf1PrwYliK4jpmmTIZCoZFQSBIUQJCFRCEIEAlgkKFFY4rIEj0l3m3qMTNjehKsJHpIe/tPuEh0kM+k+4y214Le+46VM5uD3+B0YGoxV1iCXZDSPHMDIxWcddQbJcVkuQNcKYoURTEuQBAbkuAIUUNTdqlN/7iXhJOP6hECo7LN8LjLykn+Rfn2J9eLUOhaqtOS4SfqFM6uZ0OitDoodEAglQUECCVECkeL+0Ta+Kwzw1PCylDnZSk5QV5znFpRprs1PP7Q5Q7cweJoYrGUubwsnClOmlHmWm9c1m8s+u/gQfVLAsMnfVdaT46AZQrFYzAwK5GiLvBdxRIspv2O5sz9LDwWqGfS8F6iQ3ob3vBGG2zCbzoo52E6R0EbnjNByZAOLCB5BsW5GKcddEbIBkAe5BUEi4YgpGyKa4bldw3GhxaqvGS4xfoRDISmLakrvN8UYT84phRVTf8Ol2U8njCTh+Q6PQ4rEx0VodModMIqGKyZBAgoDw9fGSq8paFCtl5vDxqvDx+9zClmfa235I9jtPAwxVCrh6qzU60HCSfatH2NOz8Dy3LjZcaLjtqj7OKwUqU56+zVpKWVp9qUnqWS+0PZ/7I8SqkucyO2FcWqvOdUeFr9d7EVR9mG1a1ejiMLiJ85PA1uZhN9J01dWb69Ys9qeP+yyjTezniVFc/isRiJ4iXGaqNJd1rebPYFiFYrGYrASQab0aIxYuzfcS+LPV0Hqhve8F6lcN67hr+14I5tt+C3+B0IswYPezdE3PGUuQDIT9HjmBkYDi6lYURkQBCiIBFMQBAIEUJAwwiHQVKXRa+GrUXhK0v1MsRVT99fepy/pa/Sh0z0xwvqxDorTHizSLEMIhkwhkMhENcBMVhoV6c6NWKnTqxcJxe5xa1PM0Ps82fGlUpSjOpzj9icptTox6lFr1Z6pMa4GXZWzqWDoU8NQjkpUlaK623q5N9bb1uagoDCFYGMxGFBlb3jsrmKLab1Df234FdOWob+15HJ1dXB8TZcxYN6Gps1PHMc7IJcgV5fmZ/DLyFdOXwvyPQ2A0Z4a7edcXwfkA9C4rgvJCulH4Y+SJwduCgHddCPwx8hXhafwInC9xxgM7DwdP4fqxXgafB+ZOKvccgJ1P3fDt8xXs+PF/QnFOo5yHNv7vXxPyA8B976Dmr1GKL9qS400/lmv+zGRZXwzhKLumnnh5wcl9YlCZ2+fHO+rUxosrTGTNxmrkxrlSYbhFyCImMAyY1ytDogdEYERlAYrCxWArK5seRVMINN6jJ6vwKYyDGer8Dk7OzhXojS5GHDS0L8xpirc5CrMQIZoFh2hWVC2JYJlxmMVJpOLk2rqzS9RhrQ0CxyKu2Ze7TivxNsy1NrVnucY/hiXKa9BYWUkt7S73Y8vUxlWW+pPzsZ5O+9382TF16ipj6Md9WHhK/oY6m38PHdNy/DFs4IsoJ70mMNdWrymh7lKb72omWrylqvoUqce9uRz5YZPc2vqUVaeVXbilxclH1GGt8NsV6lWkqko5OdheKiktXbv6zpr0PIVdo0Kdm69K+aNkpKTzJp20PXTer7yw/qxMZMqTGTAtTDcrUg3LqLosfMUJjpgWplkWURZdFkFlwXBclwAxWyNitlQGyqbHkyqTCr8JRjNO97p8S9YCHGWvaU7NveXCyOjE51vQoYZLdKX0L1Q+8/JBgWoqVV+z/e+iIXECM7YGwsDNoVspxCUotOKkuDLrCyiEeR2ji+YnadKfN8enbttwDRqU6sc1OSa4p5l49aPSV8MpqzSafUzgYzk3HNzmHnKhU4x6L711l1MVypPv7tTlbQ2zh8NJQq1LTksygk3JrcbZVa1DTEU7x/1qSurcZR6h6lOhioe1GlXg+KUv/ASvM4nljQhfLTk3Z5bygrvtS1sc2pyvxE17FGFO+u51NPNI7OM5H0JNvC1nh5dcFGM4+Ce7vTPM7R5OYvD3dSnUrRV7SpT3rusmZsrUsJituYubbnX5uL3R6CXk/8AJzaleVSSz1JTSvJWul2pZn6CQS1cY04tPXNK8k+D4PxFqu66ed31hGNvRPUy0tnF77Tyrqm3LuaSZ9iwlbPSpz+OlSn5wR8blBO/8Fu/GWi7nr6H1TkvVz7Pwre9Uebet9YScfyLEdZMa5VcNwq1MKkVJkzAXqQ6kZ1IdSCNMGXRZljINfF06Mc1WpClHjOSivqEa7gueZx/LbB0rqm6mIkuqnG0fmlZHGq8rcdiNMNhoUYvdJ3qyt3tJfQauPeyl9N/YcfHco8HQup4iEpL3Kf8WX9J5KWx8bjHfFYipKPwNvL8q0+h1cBySowteOZ9u7yJ0vKutyylUdsLhZz+/Vdv6V/k27MxOMqtSqqEVvslb6HVw2y4QWkUu5WN9Ogl1GbaskXYaUkld9XCxrhNlFNFsQrTCZbGRngWxKyuuQS5ChWhbFrBY2yqaFaLWgWIKWhXEvcRXEaYyzpJ70cjGbBpzeem3RqfHT9m77VuZ3nAVwLqY8RjcBiaatKLrQTzc5RlzdVdri9GHAY6L9jnG5pWlCayzb7YnsZ0+w5+O2TRrq1SnGXCVrSXanvRdTHnNobIw2J1rUIt6pVMqbPNY3kVUjd4XEJx1tGpDM12Jpo9TtPk3VlSlShWlUpSs+bqykpJp3WWpH2k795RhsR+z04Ua8a1OUEo87VfOKaT66nXp1u24flP189q7ExebLOjVcuLqQjT81qe+5H4edDBRo1IxjKnVq6RbayyaktWtd7OraFVX9ma6pJ3t3NEhBU01d2lK6u2/DUlkjUurGwZijEYqnSV6lSEFxlJR9TiYzldhaekHOu+FOOnzSsjGtPR3A5HiKvKnFVtMPh1C/W71JfkvUq/dmPxf8+tPK/dzNR+VWXqTVx63F7cw1DSpXhde7F55eSOPieW8b5cNh51H1SqPJF/8Vd+gmC5HQXTebs3LyR6DB7CpU17NOK8CdLjy8to7TxWkZcxF/6ccmn4tX6DYbknOpLPXqSnJ7225S+Z6nuKeDS6jRCil1E1ceewPJqjTtaCb4vVnZobPjHckbowGSIKoUEuotjBDIJREgpEQyKHiWREQ8QLoliK4DorJ7gIACwgwGbYLYDQxAFsCwxApLAsPYlgK3EV00XWBYgzToJlFbBRmrSSae9NJo6FgWGmPIY7klTbcqLnQlxpScF5I89tDkfi5vXEVaiW7NVm7eFz6e4lUoCkfKlyJnJ3rTk32uTfmzp4PkjRhq4KT4vU9/KinvVxHhY9SsYsrevOYfZUIdGCXcjZDCpdR1HhhHRa6jOLrHGiixQL8hMgw1UohSLMocoCWDYaxLALYI1iWKAhkRIZIoKHiKhooC6jByait8nZd5tWzqvwx+eJn2f/ADqf44+p06ayuKeji62a/U5N5b9/UIzWZbNq/CvmRDs4KLVKCas1FJp9TIVHBIQhtkGAhAIQhAIQhAIAhCKDAyEADFZCEUGQhBUBgIQKSaKWQhhqAQhAqEAQogSEAIyIQAoeJCAatn/zqf40emcFrourq4EIWM1JPUhCAf/Z",
+    "category": "T\u00eb tjera"
+  },
+  {
+    "id": 9,
+    "name": "Iphone 17",
+    "price": 1200.0,
+    "description": "Iphone 17 unboxing",
+    "image": "https://helios-i.mashable.com/imagery/articles/01gpvJd8LBmnqTtecVIevCQ/hero-image.fill.size_1248x702.v1726074631.jpg",
+    "category": "Teknologji",
+    "user_id": "2"
+  },
+  {
+    "id": 10,
+    "name": "Mobile",
+    "price": 230.0,
+    "description": "Telefoni mobil ne gjendje perfekte",
+    "image": "https://m.media-amazon.com/images/I/61qjvl6X32L._AC_SL1500_.jpg",
+    "category": "Teknologji",
+    "user_id": "2"
+  },
+  {
+    "id": 11,
+    "name": "Samsung",
+    "price": 340.0,
+    "description": "Samsung i ri 10/10",
+    "image": "https://mediamobile.rs/image/cache/catalog/Telefoni/Samsung/A%20serija/A06/samsung-glaxy-a06-blue-283x283.jpg",
+    "category": "Teknologji",
+    "user_id": "1"
+  },
+  {
+    "id": 12,
+    "name": "Laptop",
+    "price": 210.0,
+    "description": "perfekte",
+    "image": "https://m.media-amazon.com/images/I/61qjvl6X32L._AC_SL1500_.jpg",
+    "category": "Aksesor\u00eb",
+    "user_id": "2"
+  }
+]
